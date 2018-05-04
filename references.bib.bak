@@ -1,0 +1,14 @@
+% Encoding: UTF-8
+
+@Misc{Site da Disciplina,
+  title = {Site da Disciplina - IF672 2017.2 Algoritmos e Estruturas de Dados},
+  year  = {2017.2},
+  url   = {http://www.cin.ufpe.br/~paguso/courses/if672cc/atual/},
+}
+
+@Misc{CInWiki da disciplina,
+  title = {Algoritmos e Estruturas de Dados},
+  url   = {https://www.cin.ufpe.br/~pet/wiki/Algoritmos_e_Estruturas_de_Dados},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
