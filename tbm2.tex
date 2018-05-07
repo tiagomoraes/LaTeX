@@ -1,0 +1,73 @@
+\documentclass[a4paper]{article}
+
+%% Language and font encodings
+\usepackage[brazil]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+
+%% Sets page size and margins
+\usepackage[a4paper,top=3cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+%% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{longtable}
+
+\title{IF672 - Algoritmos e Estruturas de Dados}
+\author{Tiago Moraes}
+
+\begin{document}
+\maketitle
+
+\section{Introdução}
+\textbf{Algoritmos e Estrutura de Dados (IF672)} é uma das cadeiras obrigatórias componentes do curso de Ciência da Computação na Universidade Federal de Pernambuco. Correspondente ao segundo período do curso, a cadeira de Algoritmos, como é convencionalmente chamada, se insere na área de Computação Básica, trabalhando com o estudo das estruturas de dados e tendo como objetivo o desenvolvimento de sistemas mais eficientes, sem o comprometimento do design e da organização do código.
+
+A disciplina abrange as áreas de Estrutura de Dados (ED), estudando algoritmos relacionados à otimização dos sistemas digitais, tais como algoritmos de ordenação mais rápida a exemplo do \textit{QuickSort} e do \textit{MergeSort}; Tabelas de dispersão (\textit{Hash tables}); Grafos e Árvores; Algoritmos gulosos para problemas de otimização em grafos; etc.. Tais conteúdos são considerados fundamentais para os currículos em Ciência da Cumputação, devendo ser estudados após o programador compreender os princípios de implementação e de design de programas claros, para que então, torne-os mais eficientes. Mais conteúdos trabalhados na disciplina estão presentes em \cite{site}.
+
+\section{Relevância}
+O estudo de algoritmos é de extrema importância para a formação profissional de um desenvolvedor, pois é através deles que o programador é capaz de otimizar seu código, tornando o programa em desenvolvimento não só mais rápido, mas também mais simples e leve. Ainda que os computadores tornem-se cada vez mais rápidos e eficientes com o avançar da tecnologia, o estudo dos algoritmos de otimização é fundamental para o desenvolvimento de sistemas mais enxutos e simples em diversas áreas da computação. \cite{wiki}
+
+É a partir do domínio de algoritmos que o aluno de graduação em Ciência da Computação consegue abstrair as lógicas de desenvolvimento, compreendendo mais claramente os códigos nos quais está trabalhando, bem como assimilando a lógica por trás dos comandos realizados através de uma linguagem de programação. Desssa forma, a disciplina de Algoritmos e Estrutura de Dados torna-se fundamental para o curso, sendo bastante valorizada pelo mercado, bem como considerada como base para o desenvolvimento de bons programas.
+
+Ao analisar as Estruturas de Dados, isto é, os modos particulares de de armazenamento e organização de dados em um computador, pode-se utilizar as informações disponíveis de forma mais eficiente, facilitando sua busca e modificação. É através da organização e dos métodos de manipulação das EDs que consegue-se, por exemplo, reduzir o espeço ocupado na memória RAM ou o tempo de carregamento de um sistema.
+
+Mais informações introdutórias estão presentes no livro-texto usado durante a disciplina. \cite{livro}
+
+\subsection{Pontos Positivos}
+\begin{itemize}
+	\item Desenvolvimento da capacidade de abstração do código, desvinculando-o de uma linguagem de programação específica;
+	\item Desenvolvimento da capacidade de produção de sistemas otimizados e leves;
+    \item Importante base teórica para o desenvolvimento de programas em diversas apliações;
+    \item Conhecimento imprescindível para o mercado de trabalho na área de TI.
+\end{itemize}
+
+\subsection{Pontos Negativos}
+\begin{itemize}
+	\item Disciplina considerada pesada e com alta taxa de reprovação;
+    \item Conteúdos pouco lineares e bastante amplos;
+\end{itemize}
+
+\section{Relação com outras disciplinas}
+
+\begin{table}[h]
+\centering
+\caption{Disciplinas Relacionadas}
+\label{tabela:relacao}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|l|l|}
+\hline
+IF669- INTRODUCAO A PROGRAMACAO           & \begin{tabular}[c]{@{}l@{}}Pré-Requisito para a disciplina. IF669 fornece\\  as bases e os conceitos iniciais de programação\\  para IF672. 1º Período.\end{tabular}                           \\ \hline
+IF682- ENGENHARIA DE SOFTWARES E SISTEMAS & \begin{tabular}[c]{@{}l@{}}IF672 é pré-requisito para essa disciplina. Os \\ conceitos de algoritmos são colocados em \\ prática nessa cadeira. 4º Período.\end{tabular}                       \\ \hline
+IF685- GERENCIAMENTO DADOS E INFORMACAO   & \begin{tabular}[c]{@{}l@{}}IF672 é pré-requisito para essa disciplina, sendo\\  fundamental para os conteúdos abordados em \\ Gerenciamento de Dados e Informação. \\ 4º Período.\end{tabular} \\ \hline
+IF689- INFORMATICA TEORICA                & \begin{tabular}[c]{@{}l@{}}IF672 é pré-requisito para essa disciplina. \\ Utilizam-se conceitos estudados em Algoritmos\\  nessa cadeira. 4º Período.\end{tabular}                             \\ \hline
+IF684- SISTEMAS INTELIGENTES              & \begin{tabular}[c]{@{}l@{}}IF672 é pré-requisito para essa disciplina. \\ A primeira parte do curso é focada em \\ algoritmos de melhor escolha. 4º Período.\end{tabular}                      \\ \hline
+IF775- TOPICOS AVANCADOS EM ALGORITMOS    & \begin{tabular}[c]{@{}l@{}}Disciplina eletiva de aprofundamento em relação \\ à Algoritmos e Estrutura de Dados.\end{tabular}                                                                  \\ \hline
+\end{tabular}%
+}
+\end{table}
+
+\bibliographystyle{plain}
+\bibliography{tbm2}
+\end{document}

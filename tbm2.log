@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.23)  4 MAY 2018 14:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.23)  6 MAY 2018 23:01
 entering extended mode
-**./Algoritmos.tex
-(Algoritmos.tex
+**./tbm2.tex
+(tbm2.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Users\tiago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -678,23 +678,42 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip49
 )
-No file Algoritmos.aux.
-\openout1 = `Algoritmos.aux'.
+("C:\Users\tiago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.st
+y"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip50
+\LTright=\skip51
+\LTpre=\skip52
+\LTpost=\skip53
+\LTchunksize=\count139
+\LTcapwidth=\dimen175
+\LT@head=\box39
+\LT@firsthead=\box40
+\LT@foot=\box41
+\LT@lastfoot=\box42
+\LT@cols=\count140
+\LT@rows=\count141
+\c@LT@tables=\count142
+\c@LT@chunks=\count143
+\LT@p@ftn=\toks40
+) (tbm2.aux)
+\openout1 = `tbm2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
 ("C:\Users\tiago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
@@ -736,17 +755,17 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 ("C:\Users\tiago\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count139
-\scratchdimen=\dimen175
-\scratchbox=\box39
-\nofMPsegments=\count140
-\nofMParguments=\count141
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count142
-\MPscratchDim=\dimen176
-\MPnumerator=\count143
-\makeMPintoPDFobject=\count144
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count144
+\scratchdimen=\dimen176
+\scratchbox=\box43
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen177
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks42
 )
 ("C:\Users\tiago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
 base.sty"
@@ -763,8 +782,8 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box40
-Package hyperref Info: Link coloring ON on input line 20.
+\AtBeginShipoutBox=\box44
+Package hyperref Info: Link coloring ON on input line 21.
 
 ("C:\Users\tiago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
 ty"
@@ -774,90 +793,87 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count145
+\c@section@level=\count150
 )
-LaTeX Info: Redefining \ref on input line 20.
-LaTeX Info: Redefining \pageref on input line 20.
-LaTeX Info: Redefining \nameref on input line 20.
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
+ (tbm2.out) (tbm2.out)
 \@outlinefile=\write4
-\openout4 = `Algoritmos.out'.
+\openout4 = `tbm2.out'.
 
 
 ("C:\Users\tiago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 29.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 35.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 37.
+(babel)             in language  on input line 38.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 40.
 
 ("C:\Users\tiago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 43.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 46.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 49.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 49.
 
 [1
 
 {C:/Users/tiago/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 52.
+ (tbm2.bbl
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
+("C:\Users\tiago\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+))
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 73.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 73.
 
-No file Algoritmos.bbl.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 67.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 67.
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
- (Algoritmos.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 67.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
-
-
-Package rerunfilecheck Warning: File `Algoritmos.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Algoritmos.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  50CD5E575C47529387CA87805763387B;302.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+ (tbm2.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
+Package rerunfilecheck Info: File `tbm2.out' has not changed.
+(rerunfilecheck)             Checksum: F23D1ABC0D7E606AA239BD08A2757EFC;305.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
  ) 
 Here is how much of TeX's memory you used:
- 17880 strings out of 493305
- 332729 string characters out of 3129802
- 408327 words of memory out of 3000000
- 21104 multiletter control sequences out of 15000+200000
- 13580 words of font info for 36 fonts, out of 3000000 for 9000
+ 18007 strings out of 493305
+ 334750 string characters out of 3129802
+ 411305 words of memory out of 3000000
+ 21211 multiletter control sequences out of 15000+200000
+ 14661 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,9n,56p,671b,532s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,19n,56p,740b,532s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\tiago\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx1200.pk> <C:\Users\tiago\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecti1000.pk> <C:\Users\tiago\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\tiago\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\tiago\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\tiago\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\tiago\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C:/Use
-rs/tiago/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb>
-Output written on Algoritmos.pdf (2 pages, 80892 bytes).
+ectt1000.pk> <C:\Users\tiago\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecrm0700.pk> <C:\Users\tiago\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\tiago\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\tiago\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\tiago\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\tiago\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Us
+ers\tiago\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.
+pk> <C:\Users\tiago\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ecrm1728.pk><C:/Users/tiago/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb>
+Output written on tbm2.pdf (2 pages, 100790 bytes).
 PDF statistics:
- 245 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 327 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 

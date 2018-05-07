@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{wiki}
+Cinwiki da disciplina.
+\newblock
+  \url{https://www.cin.ufpe.br/~pet/wiki/Algoritmos_e_Estruturas_de_Dados}.
+
+\bibitem{site}
+If672 2017.2 algoritmos e estruturas de dados.
+\newblock \url{http://www.cin.ufpe.br/~paguso/courses/if672cc/atual/}, 2017.
+
+\bibitem{livro}
+Anany Levitin.
+\newblock {\em Introduction to the design and analysis of algorithms}.
+\newblock Addison Wesley, 2011.
+
+\end{thebibliography}
