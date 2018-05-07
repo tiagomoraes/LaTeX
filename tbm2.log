@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.23)  6 MAY 2018 23:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.23)  6 MAY 2018 23:44
 entering extended mode
 **./tbm2.tex
 (tbm2.tex
@@ -837,19 +837,19 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ))
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 73.
+(babel)             in language  on input line 74.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 73.
+(babel)             in language  on input line 74.
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
  (tbm2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 74.
 Package rerunfilecheck Info: File `tbm2.out' has not changed.
 (rerunfilecheck)             Checksum: F23D1ABC0D7E606AA239BD08A2757EFC;305.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  ) 
 Here is how much of TeX's memory you used:
  18007 strings out of 493305
@@ -858,7 +858,7 @@ Here is how much of TeX's memory you used:
  21211 multiletter control sequences out of 15000+200000
  14661 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,19n,56p,740b,532s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,19n,56p,745b,532s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\tiago\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ectt1000.pk> <C:\Users\tiago\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\ecrm0700.pk> <C:\Users\tiago\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
@@ -871,9 +871,9 @@ ers\tiago\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.
 pk> <C:\Users\tiago\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \ecrm1728.pk><C:/Users/tiago/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmsy10.pfb>
-Output written on tbm2.pdf (2 pages, 100790 bytes).
+Output written on tbm2.pdf (2 pages, 101709 bytes).
 PDF statistics:
- 327 PDF objects out of 1000 (max. 8388607)
+ 329 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
